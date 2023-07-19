@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AntonioSTO/AntonioSTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Antônio Sant'Ana!
 
