@@ -1,8 +1,8 @@
 # 👋 Olá! Bem-vindo(a) ao meu perfil no Github.
 ## Meu nome é Antônio Sant'Ana!
 
-- 🔭 Atualmente estou trabalhando no PET Elétrica Ufes
-- 🌱 Atualmente estou aprendendo visão computacional e aprendizado de máquina para interação com hardware
+- 🔭 Atualmente estou trabalhando no LabVisio Ufes
+- 🌱 Estudando ROS e robótica móvel para integração com sistemas de IS
 
 ## Tecnologias
 
