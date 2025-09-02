@@ -2,7 +2,7 @@
 ## Meu nome é Antônio Sant'Ana!
 
 - 🔭 Atualmente estou trabalhando no LabVisio Ufes
-- 🌱 Estudando ROS e robótica móvel para integração com sistemas de IS
+- 🌱 Desenvolvimento de sistemas baseados aprendizado de máquina, visão computacional e robótica.
 
 ## Tecnologias
 
