@@ -12,8 +12,6 @@
   <a href="http://lattes.cnpq.br/6464510632159299">
     <img src="https://img.shields.io/badge/Lattes_CV-14005B?style=flat&logo=academia&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=bielaltoe&style=flat&color=grey" alt="Profile views" />
-</p>
 
 ---
 
@@ -30,8 +28,8 @@
 
 - Multi-camera computer vision — multi-object triangulation, 3D footprint tracking, epipolar geometry
 - Real-time detection and tracking — YOLO + SORT pipelines, RANSAC-based 3D reconstruction
-- Deep learning for image classification — transfer learning with ResNet, scikit-learn pipelines
-
+- Deep learning for real time human action classification
+- Robotics control nodes for autonomous navigation and 3D mapping with ROS2
 ---
 
 ### Tech stack
