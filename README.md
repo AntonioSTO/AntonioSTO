@@ -9,7 +9,7 @@
   <a href="mailto:antoniostoliveira20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="http://lattes.cnpq.br/1270891064667391">
+  <a href="http://lattes.cnpq.br/6464510632159299">
     <img src="https://img.shields.io/badge/Lattes_CV-14005B?style=flat&logo=academia&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=bielaltoe&style=flat&color=grey" alt="Profile views" />
@@ -20,7 +20,7 @@
 ### About
 
 - 🎓  Electrical Engineering @ UFES (Universidade Federal do Espírito Santo)
-- 🔬  Computer Vision Researcher @ LabVisio-UFES
+- 🔬  Computer Vision and Robotics Research Engineer @ LabVisio-UFES
 - 📍  Vitória, ES — Brazil
 - 🇧🇷  Brazilian
 
